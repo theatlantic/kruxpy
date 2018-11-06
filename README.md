@@ -3,6 +3,11 @@
 
 A python library for working with the [Salesforce DMP API](https://konsole.zendesk.com/hc/en-us/articles/216119137-Salesforce-DMP-API).  You will need an API Key - which your Salesforce DMP Solutions Representative will have to provide.
 
+## Installation
+
+```shell
+pip install kruxpy
+```
 
 ## Example Usage
 ```python
