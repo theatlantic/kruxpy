@@ -6,7 +6,7 @@ A python library for working with the [Salesforce DMP API](https://konsole.zende
 
 ## Example Usage
 ```python
-from kruxpy import Client
+from kruxpy.client import Client
 
 c = Client('username', 'password', 'apikey')
 
